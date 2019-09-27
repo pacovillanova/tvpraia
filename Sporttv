@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, Sport TV 1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, Sport TV 1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/PWZ1ERE.png” group-title=”Categorias”, Sport TV 1 HD PT
+http://list9.isonline.me:8000/live/F094283p192427/8x847uLHJ213Q9/708.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, Sport TV 2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, Sport TV 2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/EHIEYoi.png” group-title=”Categorias”, Sport TV 2 HD PT
+http://list9.isonline.me:8000/live/F094283p192427/8x847uLHJ213Q9/709.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/oYVyzhR.png” group-title=”Categorias”, Sport TV 3 HD PT
+http://list9.isonline.me:8000/live/F094283p192427/8x847uLHJ213Q9/710.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/www.thelogodb.com/images/media/logo/wwsuqv1470409839.png” group-title=”Categorias”, SPORT TV 3 (Copyright © 2017 by TeamBlue)
+http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/www.thelogodb.com/images/media/logo/vuytwx1470409983.png” group-title=”Categorias”, SPORT TV 4 (Copyright © 2017 by TeamBlue)
+http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/img.miptv.ws/PT_Sport_TV_5.png” group-title=”Categorias”, (PT)SPORT TV 5
+http://cdn.miptv.ws:25463/live/boxatus/boxatus/1021.m3u8
+#EXTINF:-1 tvg-logo=”/assets/favicons/ms-icon-310×310.png” group-title=”Categorias”, PT | SPORT TV 5 HD
+http://501server.com:8000/live/hasankececi/kececihasan/8134.ts
+#EXTINF:-1 tvg-logo=”/assets/favicons/ms-icon-310×310.png” group-title=”Categorias”, SPORT TV 5
+http://livetvhd.iptvpro.biz:8000/live/crazysgames@hotmail.com/Pz3CagZO1a/1505.ts
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, Sport TV 5
+rtmp://185.80.220.79:15214/streamM/xZxIbGC9NR.stream
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/yPysPGV.png” group-title=”Categorias”, SPORT TV 5 HD
+http://livetvhd.iptvpro.biz:8000/live/crazysgames@hotmail.com/Pz3CagZO1a/287.ts
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/s26.postimg.org/yk0hp79x5/vvvqxp1470408443.png” group-title=”Categorias”, SPORT TV 5 HD
+http://infinity.quor8.com:8000/live/clientedoriodoouro151539/95048607/287.ts
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/rO6hvwb.png” group-title=”Categorias”, Sport TV 5 HD PT
+http://star.be-iptv.co:4991/live/bestar1.tvv/whdjYKFf1l/33.ts?formigatv
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/i.imgur.com/G8yH187.png” group-title=”Categorias”, SPORT TV 5 LOW
+http://livetvhd.iptvpro.biz:8000/live/crazysgames@hotmail.com/Pz3CagZO1a/1852.ts
+#EXTINF:-1 tvg-logo=”/assets/favicons/ms-icon-310×310.png” group-title=”Categorias”, [PT] Sport TV 5 HD
+http://iptvbrasil.dyndns.tv:8080/live/elainepincovae/elainepincovae/278.ts
+#EXTINF:-1 tvg-logo=”https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png” group-title=”Categorias”, BENFICA TV (Copyright © 2017 by TeamBlue)
+http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
